@@ -6,12 +6,15 @@ In this project, we analyzed 4 sorting algorithms
 <br>iii. Insertion Sort
 <br>iv. Selection Sort
 <p>
-<h3>The algorithms were analyzed on 2 parameter, namely:-</h3>
-<br>i. Number of comparisions w.r.t. a randomized input array.
+<h2>The algorithms were analyzed on 2 parameter, namely:-</h2>
+<h4><br>i. Number of comparisions w.r.t. a randomized input array.</h4>
 
 ![Image](noc.png?raw=true "Number of comparisions")
 <br>
-<br>ii. Running Time w.r.t. a randomized input array.
+<h4>
+<br>ii. Running Time w.r.t. a randomized input array.</h4>
 ![Image](time.png?raw=true "Number of comparisions")
+<p>
+
 
 
