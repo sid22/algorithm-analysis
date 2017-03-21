@@ -10,5 +10,5 @@ In this project, we analyzed 4 sorting algorithms
 <br>i. Number of comparisions w.r.t. a randomized input array.
 <br>ii. Running Time w.r.t. a randomized input array.
 
-![Image](noc.eps?raw=true "Number of comparisions")
+![Image](noc.png?raw=true "Number of comparisions")
 
