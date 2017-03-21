@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1461867271 source:/home/lokesh/Documents/itws/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"functions.h"
+
+1461867522 /home/lokesh/Documents/itws/functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1461867272 source:/home/kanak/Desktop/itws project/itws/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"functions.h"
+
+1461867522 /home/kanak/Desktop/itws project/itws/functions.h
+	<stdio.h>
+	<stdlib.h>
+

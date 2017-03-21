@@ -1,0 +1,20 @@
+#!/usr/bin/gnuplot
+
+set term post font 'Helvatica,25'
+set xlabel 'size of array'
+set ylabel 'number of comparisons'
+
+set autoscale y
+set autoscale x
+#set logscale y
+#set logscale x
+set term post enh color eps
+set output 'basic1.eps'
+
+
+plot "output_bubble.txt" using 2 title 'bubble' w l\
+, "output_selection.txt" using 2 title 'selection' w l\
+, "output_insertion.txt" using 2 title 'insertion' w l\
+, "output_qsort.txt" using 2 title 'qsort' w l\
+
+

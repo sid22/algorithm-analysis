@@ -1,0 +1,20 @@
+#!/usr/bin/gnuplot
+
+set term post font 'Helvatica,25'
+set xlabel 'size of arrays'
+set ylabel 'time '
+
+set autoscale y
+set autoscale x
+#set logscale y
+#set logscale x
+set term post enh color eps
+set output 'basic2.eps'
+
+
+plot "output_bubble.txt" using 3 title 'bubble' w l\
+, "output_selection.txt" using 3 title 'selection' w l\
+, "output_insertion.txt" using 3 title 'insertion' w l\
+, "output_qsort.txt" using 3 title 'qsort' w l\
+
+
