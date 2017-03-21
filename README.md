@@ -1,4 +1,4 @@
-# algorithm-analysic
+# algorithm-analysis
 
 In this project, we analyzed 4 sorting algorithms
 <br>i. Quicksort
@@ -16,5 +16,5 @@ In this project, we analyzed 4 sorting algorithms
 ![Image](time.png?raw=true "Number of comparisions")
 
 
-
+<br>This project was done in group with Kanak Singhal(@kanak893)
 
